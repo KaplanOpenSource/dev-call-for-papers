@@ -11,6 +11,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 | [Conf42: DevSecOps](https://www.conf42.com/devsecops2022) | December 1st | The Internet | Virtual | [October 28th](https://www.papercall.io/conf42-devsecops-2022)
 | [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - December 15th | Tel Aviv, Israel | In-Person | [~ September](https://www.papercall.io/community-tlv-meetups) |
 | [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - December 8th | London, United Kingdom | Hybrid| [~ September](https://www.blackhat.com/upcoming.html#europe) |
+| [All Day DevOps](https://www.alldaydevops.com/) | November 10th | The Internet | Virtual | [May 31st](https://sessionize.com/2022-all-day-devops/) |
 | [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – October 28th | Detroit, United States | Hybrid| [May 27th](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
 | [ContainerDays](https://www.containerdays.io/) | September 5th - September 7th | Hamburg, Germany | Hybrid | [April 30th](https://sessionize.com/containerdays-2022/) |
 | [Arsenal at Black Hat USA](https://www.blackhat.com/us-22/arsenal-overview.html) | August 10th - August 11th | Las Vegas, United States | Hybrid| [April 26th](https://usa-arsenal-cfp.blackhat.com/) |
