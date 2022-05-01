@@ -9,21 +9,21 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
 | [Conf42: DevSecOps](https://www.conf42.com/devsecops2022) | December 1st | The Internet | Virtual | [October 28th](https://www.papercall.io/conf42-devsecops-2022)
-| [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - December 15th | Tel Aviv, Israel | In-Person | [~ September](https://www.papercall.io/community-tlv-meetups) |
-| [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - December 8th | London, United Kingdom | Hybrid| [~ September](https://www.blackhat.com/upcoming.html#europe) |
+| [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - 15th | Tel Aviv, Israel | In-Person | [~ September](https://www.papercall.io/community-tlv-meetups) |
+| [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - 8th | London, United Kingdom | Hybrid| [~ September](https://www.blackhat.com/upcoming.html#europe) |
 | [All Day DevOps](https://www.alldaydevops.com/) | November 10th | The Internet | Virtual | [May 31st](https://sessionize.com/2022-all-day-devops/) |
-| [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – October 28th | Detroit, United States | Hybrid| [May 27th](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
-| [ContainerDays](https://www.containerdays.io/) | September 5th - September 7th | Hamburg, Germany | Hybrid | [April 30th](https://sessionize.com/containerdays-2022/) |
-| [Arsenal at Black Hat USA](https://www.blackhat.com/us-22/arsenal-overview.html) | August 10th - August 11th | Las Vegas, United States | Hybrid| [April 26th](https://usa-arsenal-cfp.blackhat.com/) |
-| [PyCon Israel](https://pycon.org.il/2022/) | June 28th - June 29th | Ramat Gan, Israel | In-Person | [April 22nd](https://cfp.pycon.org.il/conference2022/cfp) |
+| [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – 28th | Detroit, United States | Hybrid| [May 27th](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
+| [ContainerDays](https://www.containerdays.io/) | September 5th - 7th | Hamburg, Germany | Hybrid | [April 30th](https://sessionize.com/containerdays-2022/) |
+| [Arsenal at Black Hat USA](https://www.blackhat.com/us-22/arsenal-overview.html) | August 10th - 11th | Las Vegas, United States | Hybrid| [April 26th](https://usa-arsenal-cfp.blackhat.com/) |
+| [PyCon Israel](https://pycon.org.il/2022/) | June 28th - 29th | Ramat Gan, Israel | In-Person | [April 22nd](https://cfp.pycon.org.il/conference2022/cfp) |
 | [React Next TLV](https://www.react-next.com/) | June 28th | Tel Aviv, Israel | In-Person | [April 20th](https://docs.google.com/forms/d/e/1FAIpQLSe6Y96XYmzgk9kBbE1vk7KeHK45XwQ8FvsM2X0kywSrbe5D7Q/viewform) |
 | [Node TLV](https://www.nodetlv.com/) | June 22nd | Tel Aviv, Israel | In-Person | [April 15th](https://forms.gle/ab9nCbpigvqT4bW9A) |
 | [BSidesTLV](https://bsidestlv.com/) | June 30th | Tel Aviv, Israel | In-Person | [April 15th](https://cfp.bsidestlv.com/bsidestlv-2022/cfp) |
 | [GeekTime code](https://code.geektime.co.il/) | June 09th | Tel Aviv, Israel | In-Person | [April 15th](https://docs.google.com/forms/d/e/1FAIpQLSfH3eWFugcfBnygLfckk9goZpPj2MrHYznhrQus-aWmEm1nBg/viewform) |
 | [DevSecCon24](https://www.devseccon.com/events/devseccon24) | June 14th | The Internet | Virtual | [April 15th](https://sessionize.com/devseccon24-2022) |
 | [Yalla DevOps](https://yalla-devops.com/) | July 18th | Tel Aviv, Israel | In-Person | [Marth 31st](https://sessionize.com/yalladevops-telaviv-2022) |
-| [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/) | June 21st – June 24th | Austin, United States | Hybrid| [March 13th](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/) |
-| [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) | May 16th – May 17th | Valencia, Spain | Hybrid| [February 14th](https://events.linuxfoundation.org/cloud-native-securitycon-europe/program/cfp/) |
-| [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-22/arsenal-overview.html) | May 10th – May 13th | Singapore | Hybrid| [January 21st](https://asia-arsenal-cfp.blackhat.com/) |
+| [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/) | June 21st – 24th | Austin, United States | Hybrid| [March 13th](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/) |
+| [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) | May 16th – 17th | Valencia, Spain | Hybrid| [February 14th](https://events.linuxfoundation.org/cloud-native-securitycon-europe/program/cfp/) |
+| [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-22/arsenal-overview.html) | May 10th – 13th | Singapore | Hybrid| [January 21st](https://asia-arsenal-cfp.blackhat.com/) |
 | [PyCon US](https://us.pycon.org/) | April 29th - May 1st | Salt Lake City, United States | In-Person | [December 20th](https://us.pycon.org/2022/speaking/talks/) | 
-| [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | May 16th – May 20th | Valencia, Spain | Hybrid| [December 17th](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
+| [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | May 16th – 20th | Valencia, Spain | Hybrid| [December 17th](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
