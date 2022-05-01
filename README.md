@@ -8,6 +8,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 
 | Conference | Dates | Location | Mode | CFP dealine  |
 | --- | --- | --- | --- | ---  |
+| [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/) | December 5th - December 8th | London, United Kingdom | Physical + Virtual | [~ September](https://www.blackhat.com/upcoming.html#europe) |
 | [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – October 28th | Detroit, United States | Physical + Virtual | [May 27th](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
 | [Arsenal at Black Hat USA](https://www.blackhat.com/us-22/) | August 10th - August 11th | Las Vegas, United States | Physical + Virtual | [April 26th](https://usa-arsenal-cfp.blackhat.com/) |
 | [PyCon Israel](https://pycon.org.il/2022/) | June 28th - June 29th | Ramat Gan, Israel | Physical | [April 22nd](https://cfp.pycon.org.il/conference2022/cfp) |
