@@ -6,5 +6,6 @@ If you want to add a new conference to the list just create a pull request. Cont
 
 Notice the conferences are sorted by the CFP deadline, not by conference actaul dates. 
 
-| Conference  | Dates | Location | Remote | CFP dealine  |
-| --- | --- | --- | --- | --- |
+| Conference | Dates | Location | Mode | CFP dealine  |
+| --- | --- | --- | --- | ---  |
+| [PyCon Israel](https://pycon.org.il/2022/) | June 28th - June 29th | Ramat Gan | Physical | [April 22nd](https://cfp.pycon.org.il/conference2022/cfp) |
