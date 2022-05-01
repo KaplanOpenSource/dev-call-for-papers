@@ -18,6 +18,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 | [Node TLV](https://www.nodetlv.com/) | June 22nd | Tel Aviv, Israel | In-Person | [April 15th](https://forms.gle/ab9nCbpigvqT4bW9A) |
 | [BSidesTLV](https://bsidestlv.com/) | June 30th | Tel Aviv, Israel | In-Person | [April 15th](https://cfp.bsidestlv.com/bsidestlv-2022/cfp) |
 | [GeekTime code](https://code.geektime.co.il/) | June 09th | Tel Aviv, Israel | In-Person | [April 15th](https://docs.google.com/forms/d/e/1FAIpQLSfH3eWFugcfBnygLfckk9goZpPj2MrHYznhrQus-aWmEm1nBg/viewform) |
+| [DevSecCon24](https://www.devseccon.com/events/devseccon24) | June 14th | The Internet | Virtual | [April 15th](https://sessionize.com/devseccon24-2022) |
 | [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/) | June 21st – June 24th | Austin, United States | Hybrid| [March 13th](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/) |
 | [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) | May 16th – May 17th | Valencia, Spain | Hybrid| [February 14th](https://events.linuxfoundation.org/cloud-native-securitycon-europe/program/cfp/) |
 | [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-22/arsenal-overview.html) | May 10th – May 13th | Singapore | Hybrid| [January 21st](https://asia-arsenal-cfp.blackhat.com/) |
