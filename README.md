@@ -13,3 +13,4 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 | [Node TLV](https://www.nodetlv.com/) | June 22nd | Tel Aviv, Israel | Physical | [April 15th](https://forms.gle/ab9nCbpigvqT4bW9A) |
 | [BSidesTLV](https://bsidestlv.com/) | June 30th | Tel Aviv, Israel | Physical | [April 15th](https://cfp.bsidestlv.com/bsidestlv-2022/cfp) |
 | [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/) | June 21st – June 24th | Austin, United States | Physical + Virtual | [March 13th](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/) |
+| [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) | May 16th – May 17th | Valencia, Spain | Physical + Virtual | [February 14th](https://events.linuxfoundation.org/cloud-native-securitycon-europe/program/cfp/) |
