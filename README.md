@@ -16,6 +16,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 | [ContainerDays](https://www.containerdays.io/) | September 5th - 7th | Hamburg, Germany | Hybrid | [April 30th](https://sessionize.com/containerdays-2022/) |
 | [Arsenal at Black Hat USA](https://www.blackhat.com/us-22/arsenal-overview.html) | August 10th - 11th | Las Vegas, United States | Hybrid| [April 26th](https://usa-arsenal-cfp.blackhat.com/) |
 | [PyCon Israel](https://pycon.org.il/2022/) | June 28th - 29th | Ramat Gan, Israel | In-Person | [April 22nd](https://cfp.pycon.org.il/conference2022/cfp) |
+| [All Things Open](https://www.allthingsopen.org/) | October 30th - November 2nd | TBD | Hybrid | [April 22nd](https://www.allthingsopen.org/call-for-papers-2022/) |
 | [React Next TLV](https://www.react-next.com/) | June 28th | Tel Aviv, Israel | In-Person | [April 20th](https://docs.google.com/forms/d/e/1FAIpQLSe6Y96XYmzgk9kBbE1vk7KeHK45XwQ8FvsM2X0kywSrbe5D7Q/viewform) |
 | [Node TLV](https://www.nodetlv.com/) | June 22nd | Tel Aviv, Israel | In-Person | [April 15th](https://forms.gle/ab9nCbpigvqT4bW9A) |
 | [BSidesTLV](https://bsidestlv.com/) | June 30th | Tel Aviv, Israel | In-Person | [April 15th](https://cfp.bsidestlv.com/bsidestlv-2022/cfp) |
