@@ -12,6 +12,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actaul 
 | [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - 15th | Tel Aviv, Israel | In-Person | [~ September](https://www.papercall.io/community-tlv-meetups) |
 | [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - 8th | London, United Kingdom | Hybrid| [~ September](https://www.blackhat.com/upcoming.html#europe) |
 | [All Day DevOps](https://www.alldaydevops.com/) | November 10th | The Internet | Virtual | [May 31st](https://sessionize.com/2022-all-day-devops/) |
+| [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) | September 13th - 16th | Dublin, Ireland | Hybrid | [May 30th](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp) |
 | [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – 28th | Detroit, United States | Hybrid| [May 27th](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
 | OWASP Global AppSec APAC | Aug 29th - Sep 1st | The Internet | Virtual | [May 3rd](https://owasp.submittable.com/submit/221206/2022-virtual-global-appsec-apac-cft) |
 | [ContainerDays](https://www.containerdays.io/) | September 5th - 7th | Hamburg, Germany | Hybrid | [April 30th](https://sessionize.com/containerdays-2022/) |
