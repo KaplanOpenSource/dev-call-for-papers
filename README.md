@@ -16,6 +16,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | [All Day DevOps](https://www.alldaydevops.com/) | November 10th | The Internet | Virtual | [May 31st](https://sessionize.com/2022-all-day-devops/) |
 | [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) | September 13th - 16th | Dublin, Ireland | Hybrid | [May 30th](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp) |
 | [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – 28th | Detroit, United States | Hybrid| [May 27th](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
+| [ApacheCon North America](https://www.apachecon.com/) | October 3rd - 6th | New Orleans, United States | In-Person | [May 23rd](https://www.apachecon.com/acna2022/cfp.html) |
 | OWASP Global AppSec APAC | Aug 29th - Sep 1st | The Internet | Virtual | [May 3rd](https://owasp.submittable.com/submit/221206/2022-virtual-global-appsec-apac-cft) |
 | [ContainerDays](https://www.containerdays.io/) | September 5th - 7th | Hamburg, Germany | Hybrid | [April 30th](https://sessionize.com/containerdays-2022/) |
 | [Arsenal at Black Hat USA](https://www.blackhat.com/us-22/arsenal-overview.html) | August 10th - 11th | Las Vegas, United States | Hybrid| [April 26th](https://usa-arsenal-cfp.blackhat.com/) |
