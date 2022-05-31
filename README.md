@@ -9,9 +9,9 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
 | [Conf42: DevSecOps](https://www.conf42.com/devsecops2022) | December 1st | The Internet | Virtual | [October 28th](https://www.papercall.io/conf42-devsecops-2022)
-| [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - 15th | Tel Aviv, Israel | In-Person | [~ September](https://www.papercall.io/community-tlv-meetups) |
 | [Open Source in Finance Forum NY](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) | December 8th | New York City, United States | In-Person | [September 12th](https://events.linuxfoundation.org/open-source-finance-forum-new-york/program/cfp/) |
 | [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - 8th | London, United Kingdom | Hybrid| [~ September](https://www.blackhat.com/upcoming.html#europe) |
+| [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - 15th | Tel Aviv, Israel | In-Person | [August 31st](https://sessionize.com/devopsdays-tel-aviv-2022/) |
 | [Reversim](https://summit2022.reversim.com) | October 24th - 25th | Tel Aviv, Israel | In-Person | [June 15th](https://sessionize.com/reversim-summit-2022/) |
 | [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – 28th | Detroit, United States | Hybrid| [June 3rd](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
 | [ApacheCon Asia](https://www.apachecon.com/) | July 29th - 31st | The Internet | Virtual | [May 31st](https://apachecon.com/acasia2022/cfp.html) |
