@@ -13,6 +13,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - 8th | London, United Kingdom | Hybrid| [~ September](https://www.blackhat.com/upcoming.html#europe) |
 | [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - 15th | Tel Aviv, Israel | In-Person | [August 31st](https://sessionize.com/devopsdays-tel-aviv-2022/) |
 | [Java Summit IL](http://www.javasummitil.com/) | November 21th | Tel Aviv, Israel | In-Person | [July 31st](https://sessionize.com/javasummit-il-22) |
+| [SCORED](https://scored.dev/workshop_information/) | November 11th | Los Angeles, California | In-Person | [July 29th](https://scored2022.hotcrp.com/) |
 | [Reversim](https://summit2022.reversim.com) | October 24th - 25th | Tel Aviv, Israel | In-Person | [June 15th](https://sessionize.com/reversim-summit-2022/) |
 | [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | October 24th – 28th | Detroit, United States | Hybrid| [June 3rd](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) |
 | [ApacheCon Asia](https://www.apachecon.com/) | July 29th - 31st | The Internet | Virtual | [May 31st](https://apachecon.com/acasia2022/cfp.html) |
