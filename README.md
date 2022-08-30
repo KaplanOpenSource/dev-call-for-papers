@@ -11,6 +11,8 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | --- | --- | --- | --- | ---  |
 | [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-23/arsenal-overview.html) | May 9th – 12th | Singapore | Hybrid| [~ January](https://asia-arsenal-cfp.blackhat.com/) |
 | [Black Hat Asia](https://www.blackhat.com/asia-23) | May 9th – 12th | Singapore | Hybrid| [~ January](https://www.blackhat.com/asia-23/call-for-papers.html) |
+| [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | April 17th - 21st | Amsterdam, The Netherlands | Hybrid| [~ December](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
+
 
 ## 2022
 | Conference | Dates | Location | Type | CFP dealine  |
