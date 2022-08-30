@@ -6,6 +6,13 @@ If you want to add a new conference to the list just create a pull request. Cont
 
 Notice the conferences are sorted by the CFP deadline, not by conference actual dates. 
 
+## 2023
+| Conference | Dates | Location | Type | CFP dealine  |
+| --- | --- | --- | --- | ---  |
+| [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-23/arsenal-overview.html) | May 9th – 12th | Singapore | Hybrid| [~ January](https://asia-arsenal-cfp.blackhat.com/) |
+| [Black Hat Asia](https://www.blackhat.com/asia-23) | May 9th – 12th | Singapore | Hybrid| [~ January](https://www.blackhat.com/asia-23/call-for-papers.html) |
+
+## 2022
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
 | [Conf42: DevSecOps](https://www.conf42.com/devsecops2022) | December 1st | The Internet | Virtual | [October 28th](https://www.papercall.io/conf42-devsecops-2022)
