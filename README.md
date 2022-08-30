@@ -10,6 +10,8 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | --- | --- | --- | --- | ---  |
 | [Conf42: DevSecOps](https://www.conf42.com/devsecops2022) | December 1st | The Internet | Virtual | [October 28th](https://www.papercall.io/conf42-devsecops-2022)
 | [Open Source in Finance Forum NY](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) | December 8th | New York City, United States | In-Person | [September 12th](https://events.linuxfoundation.org/open-source-finance-forum-new-york/program/cfp/) |
+| [Arsenal at Black Hat Middle East & Africa](https://blackhatmea.com/blackhat-arsenal) | November 15th - 17th | Riyadh, Saudi Arabia | Hybrid| [September 9th](https://blackhatmea.awardsplatform.com/) |
+| [Black Hat Middle East & Africa](https://blackhatmea.com/) | November 15th - 17th | Riyadh, Saudi Arabia | Hybrid| [September 9th](https://blackhatmea.awardsplatform.com/) |
 | [Arsenal at Black Hat Europe](https://www.blackhat.com/eu-22/arsenal-overview.html) | December 5th - 8th | London, United Kingdom | Hybrid| [September 2nd](https://europe-arsenal-cfp.blackhat.com/) |
 | [DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays.html) | December 14th - 15th | Tel Aviv, Israel | In-Person | [August 31st](https://sessionize.com/devopsdays-tel-aviv-2022/) |
 | [Java Summit IL](http://www.javasummitil.com/) | November 21th | Tel Aviv, Israel | In-Person | [July 31st](https://sessionize.com/javasummit-il-22) |
