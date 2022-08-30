@@ -9,6 +9,8 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 ## 2023
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
+| [Arsenal at Black Hat USA](https://www.blackhat.com/us-23/arsenal-overview.html) | August 5th - 10th | Las Vegas, United States | Hybrid| [~ April](https://usa-arsenal-cfp.blackhat.com/) |
+| [Black Hat USA](https://www.blackhat.com/us-23/) | August 5th - 10th | Las Vegas, United States | Hybrid| [~ April](https://www.blackhat.com/us-23/call-for-papers.html/) |
 | [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-23/arsenal-overview.html) | May 9th – 12th | Singapore | Hybrid| [~ January](https://asia-arsenal-cfp.blackhat.com/) |
 | [Black Hat Asia](https://www.blackhat.com/asia-23) | May 9th – 12th | Singapore | Hybrid| [~ January](https://www.blackhat.com/asia-23/call-for-papers.html) |
 | [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | April 17th - 21st | Amsterdam, The Netherlands | Hybrid| [~ December](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
