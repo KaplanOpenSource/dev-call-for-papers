@@ -14,7 +14,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-23/arsenal-overview.html) | May 9th – 12th | Singapore | Hybrid| [January 16th](https://asia-arsenal-cfp.blackhat.com/) |
 | [Black Hat Asia](https://www.blackhat.com/asia-23) | May 9th – 12th | Singapore | Hybrid| [~ January](https://www.blackhat.com/asia-23/call-for-papers.html) |
 | [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | April 17th - 21st | Amsterdam, The Netherlands | Hybrid| [November 18th](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
-| [CloudNativeSecurityCon North America](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | February 1st - 2nd | Seattle, United States | Hybrid| [November 9](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/) |
+| [CloudNativeSecurityCon North America](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | February 1st - 2nd | Seattle, United States | Hybrid| [November 9th](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/) |
 | [FOSDEM](https://fosdem.org/2023) | February 4th - 5th | Brussels, Belgium | In-Person | [November 5th](https://fosdem.org/2023/news/2022-09-29-call_for_devrooms/) |
 
 ## 2022
