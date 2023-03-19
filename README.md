@@ -9,6 +9,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 ## 2023
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
+| [Open Source Summit (Europe)](https://events.linuxfoundation.org/open-source-summit-north-america/) | September 19th - 21st | Bilbao, Spain | Hybrid| [May 2nd](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/) |
 | [Arsenal at Black Hat USA](https://www.blackhat.com/us-23/arsenal-overview.html) | August 5th - 10th | Las Vegas, United States | Hybrid| [~ April](https://usa-arsenal-cfp.blackhat.com/) |
 | [Black Hat USA](https://www.blackhat.com/us-23/) | August 5th - 10th | Las Vegas, United States | Hybrid| [~ April](https://www.blackhat.com/us-23/call-for-papers.html/) |
 | [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/) | May 10th - May 12th| Vancouver, Canada | Hybrid| [February 5th](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/) |
