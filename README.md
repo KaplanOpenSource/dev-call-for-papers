@@ -10,13 +10,13 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
 | [Open Source Summit (Europe)](https://events.linuxfoundation.org/open-source-summit-north-america/) | September 19th - 21st | Bilbao, Spain | Hybrid| [May 2nd](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/) |
-| [Arsenal at Black Hat USA](https://www.blackhat.com/us-23/arsenal-overview.html) | August 5th - 10th | Las Vegas, United States | Hybrid| [~ April](https://usa-arsenal-cfp.blackhat.com/) |
-| [Black Hat USA](https://www.blackhat.com/us-23/) | August 5th - 10th | Las Vegas, United States | Hybrid| [~ April](https://www.blackhat.com/us-23/call-for-papers.html/) |
+| [Arsenal at Black Hat USA](https://www.blackhat.com/us-23/arsenal-overview.html) | August 5th - 10th | Las Vegas, United States | Hybrid| [April 21st](https://usa-arsenal-cfp.blackhat.com/) |
+| [Black Hat USA](https://www.blackhat.com/us-23/) | August 5th - 10th | Las Vegas, United States | Hybrid| [April 12th](https://usa-briefings-cfp.blackhat.com/) |
 | [OpenSSF Day North America](https://events.linuxfoundation.org/openssf-day-north-america/) | May 10th | Vancouver, Canada | Hybrid| [March 17th](https://events.linuxfoundation.org/openssf-day-north-america/program/cfp/) |
 | [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/) | May 10th - May 12th| Vancouver, Canada | Hybrid| [February 5th](https://events.linuxfoundation.org/open-source-summit-north-america/program/cfp/) |
-| [Black Hat Asia](https://www.blackhat.com/asia-23) | May 9th – 12th | Singapore | Hybrid| [~ January](https://www.blackhat.com/asia-23/call-for-papers.html) |
 | [Kubernetes Community Days Israel](https://community.cncf.io/events/details/cncf-kcd-israel-2023-presents-kcd-israel-2023/) | March 23rd | Tel Aviv | In-Person | [January 23rd](https://kcd.smapply.io/prog/kubernetes_community_days_israel_2023/) |
 | [Arsenal at Black Hat Asia](https://www.blackhat.com/asia-23/arsenal-overview.html) | May 9th – 12th | Singapore | Hybrid| [January 16th](https://asia-arsenal-cfp.blackhat.com/) |
+| [Black Hat Asia](https://www.blackhat.com/asia-23) | May 9th – 12th | Singapore | Hybrid| [January 12th](https://www.blackhat.com/asia-23/call-for-papers.html) |
 | [PyCon US](https://us.pycon.org/) | April 21th - April 23rd | Salt Lake City, United States | In-Person | [December 11th](https://us.pycon.org/2023/speaking/talks/) |
 | [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | April 17th - 21st | Amsterdam, The Netherlands | Hybrid| [November 18th](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
 | [CloudNativeSecurityCon North America](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | February 1st - 2nd | Seattle, United States | Hybrid| [November 9th](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/) |
