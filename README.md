@@ -21,6 +21,7 @@ Notice the conferences are sorted by the CFP deadline, not by conference actual 
 | [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | April 17th - 21st | Amsterdam, The Netherlands | Hybrid| [November 18th](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
 | [CloudNativeSecurityCon North America](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) | February 1st - 2nd | Seattle, United States | Hybrid| [November 9th](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/) |
 | [FOSDEM](https://fosdem.org/2023) | February 4th - 5th | Brussels, Belgium | In-Person | [November 5th](https://fosdem.org/2023/news/2022-09-29-call_for_devrooms/) |
+| [DevOps Enterprise Summit Las Vegas](https://itrevolution.com/product/devops-enterprise-summit-las-vegas-2023/) | October 3rd - 5th | Las Vegas, United States | In-Person | [June 12th](https://itrevolution.com/product/devops-enterprise-summit-las-vegas-2023/cfp) |
 
 
 ## 2022
