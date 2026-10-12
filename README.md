@@ -6,6 +6,16 @@ If you want to add a new conference to the list just create a pull request. Cont
 
 Notice the conferences are sorted by the CFP deadline, not by conference actual dates. 
 
+## 2027
+| Conference | Dates | Location | Type | CFP deadline |
+| --- | --- | --- | --- | --- |
+| Black Hat Asia | March 2nd - 3rd | Singapore | In-Person | [October 20th, 2026](https://blackhat.com/call-for-papers.html) |
+| KubeCon + CloudNativeCon Europe | March 15th - 18th | Barcelona, Spain | In-Person | [October 11th, 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) |
+| FOSDEM 2027 | January 30th - 31st | Brussels, Belgium | In-Person | [November 16th, 2026](https://fosdem.org/2027/news/call-for-main-track/) |
+| DevOpsDays Zurich | April 14th - 15th | Zurich, Switzerland | In-Person | [December 31st, 2026](https://devopsdays.org/speaking/) |
+| DevOpsDays Geneva | May 25th - 26th | Geneva, Switzerland | In-Person | [February 7th, 2027](https://devopsdays.org/events/2027-geneva/propose) |
+| Black Hat USA | July 31st - August 5th | Las Vegas, United States | In-Person | [TBD](https://blackhat.com/call-for-papers.html) |
+
 ## 2023
 | Conference | Dates | Location | Type | CFP dealine  |
 | --- | --- | --- | --- | ---  |
